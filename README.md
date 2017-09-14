@@ -1,1 +1,3 @@
-## Angular2 Project to display Github users. 
+## Hub Search
+
+Github API based project using Angular2 to search for github profiles.
