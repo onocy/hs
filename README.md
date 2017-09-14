@@ -1,3 +1,3 @@
 ## Hub Search
 
-Github API based project using Angular2 to search for github profiles.
+Simple Github API based project using Angular2 to search for Github profiles.
